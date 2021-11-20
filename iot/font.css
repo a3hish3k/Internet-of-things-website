@@ -1,0 +1,14 @@
+@font-face {
+  font-family: googlesans;
+  src: url("fonts/GoogleSans-Medium.ttf");
+}
+
+@font-face {
+  font-family: opensans;
+  src: url("fonts/OpenSans-Regular.ttf");
+}
+
+@font-face {
+  font-family: montserrat;
+  src: url("Montserrat-SemiBold.otf");
+}
